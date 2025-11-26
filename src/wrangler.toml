@@ -1,0 +1,5 @@
+name = "rcinfo"              # worker name
+main = "src/index.js"
+compatibility_date = "2024-11-26"
+
+account_id = "1cedea1e1efd323fc215443c64423f1d" # <- from your screenshot
